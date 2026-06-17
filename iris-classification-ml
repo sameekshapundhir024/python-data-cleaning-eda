@@ -1,0 +1,25 @@
+# Iris Flower Classification
+
+## Overview
+
+A beginner machine learning classification project.
+
+## Objective
+
+To classify iris flowers into different species using supervised learning.
+
+## Concepts Covered
+
+- Dataset splitting
+- Model training
+- Prediction
+- Accuracy evaluation
+
+## Algorithm
+
+Random Forest Classifier
+
+## Tools Used
+
+- Python
+- Scikit-learn
